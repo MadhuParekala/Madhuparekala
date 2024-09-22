@@ -1,18 +1,14 @@
-## 👋 Hi, I'm Madhu parekala!
+<h1 align="center">Hi 👋, I'm Madhu Parekala</h1>
+<h3 align="center">Passionate Data Analyst | Exploring the World of Data</h3>
 
-### 🚀 About Me
-- 📊 Data/Business Analyst
-- 🎓 Electronics graduate
-- 🔍 Passionate about exploring New Technologies
-- 🌱 Currently learning **SQL**,**Tableau**,**Python**,**Power BI**,**Advanced Excel**
-- 📚 Interested in doing Insights
+###  About Me
+- I'm skilled in **Excel, Power BI, SQL & Python**
 
-### 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/madhuparekala/)
+- All of my projects are available at [https://prod4.codebasics.io/portfolio/Madhu-parekala)
 
-### 🛠️ Projects
-- Excel [Finance_Sales_Analysis](https://www.linkedin.com/feed/update/urn:li:activity:7243135278368866305/)
-- Power BI  [Business_Insights_360](https://app.powerbi.com/view?r=eyJrIjoiNDc2ZmJlZGEtZWQwNC00OGU5LTg5MjItNjBhY2I3Mzk5YjMxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- How to reach me **p.madhu454@gmail.com**
 
-### 🤝 Open to Collaboration
-- 📧 Reach me at: p.madhu454@gmail.com
+- fact about me ****I'm a Test Engineer Turned Data Enthusiast** **
+
+## Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhuparekala/)
